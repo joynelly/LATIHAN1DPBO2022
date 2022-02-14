@@ -2,11 +2,11 @@
   
   /*Saya Nelly Joy Christi Simanjuntak 2000199 mengerjakan Latihan 1 
   dalam mata kuliah Desain dan Pmerograman Berorientasi Objek
-	untuk keberkahanNya maka saya tidak melakukan kecurangan
-	seperti yang telah dispesifikasikan. Aamiin*/
+  untuk keberkahanNya maka saya tidak melakukan kecurangan
+  seperti yang telah dispesifikasikan. Aamiin*/
 
 LATIHAN 1a
-f\File tugas untuh latihan 1 bagian a terdapat pada folder 'latihan1_a'
+File tugas untuh latihan 1 bagian a terdapat pada folder 'latihan1_a'
 yang isinya ialah file php untuk program mengebai daftar mahasiswa. 
 Nama screenshoot hasil : 1a_php
 
@@ -22,7 +22,7 @@ beserta pemain yang ada didalamnya.
 Untuk bahasa php, program masih menggunakan hardcode dan akan menampilkan daftar tim 
 sepakbola yang sudah diinput pada file program.
 
-Untuk nama file screenshot latihan b memiliki format : 1b_[bahasa]_[input/output]
+Nama file screenshot untuk latihan b memiliki format : 1b_[bahasa]_[input/output]
 
 
 TESTCASE LATIHAN 1b   
