@@ -6,28 +6,26 @@
 	seperti yang telah dispesifikasikan. Aamiin*/
 
 LATIHAN 1a
-file tugas untuh latihan 1 bagian a terdapat pada folder 'latihan1_a'
-yang isinya ialah file php untuk program mengebai daftar mahasiswa
-nama screenshoot hasil : 1a_php
+f\File tugas untuh latihan 1 bagian a terdapat pada folder 'latihan1_a'
+yang isinya ialah file php untuk program mengebai daftar mahasiswa. 
+Nama screenshoot hasil : 1a_php
 
 
 LATIHAN 1b
-Programnya mengenai Daftar Tim Sepakbola
-Algoritma : Program meminta masukan untuk data tim dan nama pemain dalam tim
+Programnya mengenai Daftar Tim Sepakbola. 
+Algoritma : Program meminta masukan untuk data tim dan nama pemain dalam tim.
 
-Untuk bahasa C++, java, dan python dapat menerima inputan dan menggunakan inner class.
-Output akhir program ialah menampilkan semua data tim sepakbola yang telah di input
+Untuk bahasa C++, java, dan python dapat menerima inputan dan menggunakan inner class. 
+Output akhir program ialah menampilkan semua data tim sepakbola yang telah di input 
 beserta pemain yang ada didalamnya.
 
-Untuk bahasa php, program masih menggunakan hardcode dan akan menampilkan daftar tim
+Untuk bahasa php, program masih menggunakan hardcode dan akan menampilkan daftar tim 
 sepakbola yang sudah diinput pada file program.
 
 Untuk nama file screenshot latihan b memiliki format : 1b_[bahasa]_[input/output]
 
 
-=======================       disclaimer :
-| TESTCASE LATIHAN 1b |       testcase ini lebih baik digunakan pada bahasa c++ (dapat langsung di copy/paste)
-=======================       untuk bahasa lain lebih baik diketik secara manual :)
+TESTCASE LATIHAN 1b   
 3
 BayernMunich
 Germany
@@ -58,6 +56,10 @@ Neymar
 Marquinhos
 SergioRamos
 
+
+disclaimer :
+Testcase ini lebih baik digunakan pada bahasa c++ dan python (dapat langsung di copy/paste). 
+Untuk bahasa java lebih baik diketik secara manual :) 
 
 PENUTUP
 Sekian tugas untuk latihan 1, mohon maaf kalau masih banyak yang kurang.
